@@ -12,7 +12,10 @@
 
 ---
 #  About Me:
-I’m a Computer Science student specializing in cybersecurity, with a strong interest in secure systems, software design, and problem-solving.<br>I enjoy building structured applications, understanding how systems work under the hood, and continuously improving my technical foundation for a future career in cybersecurity and software security.<br><br>Currently focused on:<br>- Core computer science & networking concepts<br>- Object-oriented programming<br>- Preparing for cybersecurity-related roles and internship
+🔭 I’m currently working on Software Engineering Projects<br>
+🌱 I’m currently learning Cybersecurity <br>
+💬 Ask me about clean code, clean UI, and Taylor Swift albums for every debugging phase <br>
+⚡ Fun fact : I'm a swiftie 🎶
 
 
 ##  Socials:
@@ -23,7 +26,8 @@ I’m a Computer Science student specializing in cybersecurity, with a strong in
 #  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vdlnp&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vdlnp&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vdlnp&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/username=vdlnp&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vdlnp&icon=0&color=0)](https://visitcount.itsvg.in)
