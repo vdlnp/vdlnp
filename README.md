@@ -39,13 +39,7 @@ Currently focused on:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vdlnp&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdlnp&layout=compact&theme=tokyonight" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?vdlnp=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
