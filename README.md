@@ -37,50 +37,6 @@ Currently focused on:
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧳 IEEE Travel Agency  
-**C++ Console Application**
-
-A structured travel booking system demonstrating **object-oriented design and dynamic logic**.
-
-**Key highlights**
-- Modular menu-driven architecture  
-- Dynamic price recalculation  
-- Package selection and room upgrades  
-
-**Tech:** C++, Object-Oriented Programming  
-
----
-
-### 🐭 Catch That Rat!  
-**Mobile Game (Team Project)**
-
-A fast-paced multiplayer mobile game built as a collaborative project.
-
-**Key highlights**
-- Real-time tap-to-score mechanics  
-- Difficulty progression and obstacles  
-- Leaderboard system  
-
-**Tech:** MIT App Inventor, Game Logic, UI Design  
-
----
-
-### 🎬 Movie Recommendation Website  
-**Frontend Team Project**
-
-A responsive movie recommendation website focused on **clean UI and usability**.
-
-**Key highlights**
-- Multiple pages (home, profile, listings)  
-- Responsive layout and styling  
-- Clear navigation flow  
-
-**Tech:** HTML, CSS, JavaScript  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
