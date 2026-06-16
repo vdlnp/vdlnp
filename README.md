@@ -15,10 +15,7 @@
 
 ---
 #  About Me:
-🔭 I’m currently working on Software Engineering Projects<br>
 🌱 I’m currently learning Cybersecurity <br>
-💬 Ask me about clean code, clean UI, and Taylor Swift albums for every debugging phase <br>
-⚡ Fun fact : I'm a swiftie 🎶
 
 
 ##  Socials:
